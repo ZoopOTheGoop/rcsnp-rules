@@ -10,7 +10,7 @@
 > Certain exceptions may be made for long-standing legacy members who have moved away, but in general if you are not in or around Portland, this is not the server for you. This is a server built around forging and maintaining real-life friendships.
 
 5. Ask consent before sharing other people's stuff
-> Do not post pictures of people, or any identifying information that people are not already open about on this server (e.g. their workplace or pictures of their home) without asking first.
+> Do not post pictures of people, or any identifying information that people are not already open about on this server (e.g. their workplace or pictures of their home) without asking first. You must ask that user for permission every time, not just once.
 
 6. This server is strictly SFW
 > Don't post anything lewd, upsetting, or overly obscene (e.g. gore). If asked to spoiler/delete, please do so. This server is for adults, so some casual allusions to or jokes about adult topics are permitted. The general guideline here is "if you're not sure, don't post it".
