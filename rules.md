@@ -31,8 +31,5 @@
 10.  All leadership decisions are final
 > If a mod tells you to do something regarding the server rules or community safety, do so. If you have a strong objection, do not argue in chat, instead #🎫-open-a-ticket.
 
-11.  Bring IRL issues to server leadership 
-> If somebody, including server leaders, are harming you or making you feel unsafe, please #🎫-open-a-ticket. If you are being harmed by a moderator, notify a trusted member of the moderation team via DM.
-
-12.  No heated political discussion
+11.  No heated political discussion
 > This server is not “apolitical”, but for the sake of maintaining a friendly space, we do not allow heated discussion about controversial or political topics, particularly with regards to electoral politics, geopolitics, or current events.

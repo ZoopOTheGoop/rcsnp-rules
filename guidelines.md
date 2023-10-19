@@ -16,3 +16,6 @@
 > We recommend resolving matters privately where possible. However, If matters get advanced enough to start making members uncomfortable or reluctant to participate in the community, we ask that matters be resolved in a manner that is honest, open, communicative, and responsible. 
 > 
 > When absolutely needed, if a group of people becomes particularly acrimonious or volatile with no clear "offending party", leadership may elect to enforce soft-bans on interaction between specific members or bar some members from attending other members' events as a last resort until the matter is properly resolved. Violating or circumventing said measures will be considered harassment.
+
+4.  Bring IRL issues to server leadership 
+> If somebody, including server leaders, are harming you or making you feel unsafe, please #🎫-open-a-ticket. If you are being harmed by a moderator, notify a trusted member of the moderation team via DM.
