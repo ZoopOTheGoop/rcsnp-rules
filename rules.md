@@ -13,7 +13,7 @@
 > Do not post pictures of people, or any identifying information that people are not already open about on this server (e.g. their workplace or pictures of their home) without asking first. You must ask that user for permission every time, not just once.
 
 6. This server is strictly SFW
-> Don't post anything lewd, upsetting, or overly obscene (e.g. gore). If asked to spoiler/delete, please do so. This server is for adults, so some casual allusions to or jokes about adult topics are permitted. The general guideline here is "if you're not sure, don't post it".
+> Don't post anything lewd, upsetting, or overly obscene (e.g. gore). If asked to spoiler/delete, please do so. This server is for adults, so some casual allusions to or jokes about adult-only topics are permitted. The general guideline here is "if you're not sure, don't post it".
 
 7. No spam or advertising
 > If you have a project or similar idea you want to plug, #🎫-open-a-ticket to ask for permission first. Reasonable cases by established members will likely be granted (e.g. linking your Etsy page because you made a new craft).
