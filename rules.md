@@ -4,7 +4,7 @@
 2. No Harassment/Bullying
 > Harassment is any repetitive unwanted behavior that makes a reasonable person feel uncomfortable, humiliated, or mentally distressed.
 
-3. You **must** be 21+
+3. New members **must** be 21+
 
 4. You must be a resident in or around the Portland, OR Metro Area, a regular visitor to the community, or plan to move to the area
 > Certain exceptions may be made for long-standing legacy members who have moved away, but in general if you are not in or around Portland, this is not the server for you. This is a server built around forging and maintaining real-life friendships.
