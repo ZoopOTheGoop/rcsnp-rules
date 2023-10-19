@@ -2,6 +2,8 @@
 > If you mark "interested" that means "yes", not "maybe". We of course understand things come up, but in general flaking on events is heavily discouraged. People can get discouraged when events have much lower turnout than expected. 
 > 
 > This is especially true if you're the organizer, please do not cancel events people were looking forward to at the last minute even if you can't attend.
+>
+> If you must cancel attendance or a whole event, please communicate with your attendees/the organizer where possible.
 > 
 > For events that need accurate headcounts (e.g. restaurant reservations), repeated flaking may warrant (minor) action. We also recommend not using the Discord event system for such events, or similar limited capacity events, but instead organizing with people directly (whether privately or in a thread in the #event-planning forum).
 
