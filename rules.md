@@ -1,7 +1,7 @@
 1. No Bigotry
 > Discrimination against community members based on gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, neurotype, or other similar characteristics is prohibited.
 
-2. Harassment/Bullying
+2. No Harassment/Bullying
 > Harassment is any repetitive unwanted behavior that makes a reasonable person feel uncomfortable, humiliated, or mentally distressed.
 
 3. You **must** be 21+
